@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="shortcut icon" type="image/png" href="{{ "/assets/favicon.png" | relative_url }}" >
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.1.0/css/all.css" integrity="sha384-lKuwvrZot6UHsBSfcMvOkWwlCMgc0TaWr+30HWe3a4ltaBwTZhyTEggF5tJv8tbt" crossorigin="anonymous">
-    
+
 {% seo %}
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     <!--[if lt IE 9]>
@@ -29,8 +29,12 @@
         {% endif %}
 
         {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        <p class="view"><a href=""></a></p>
+        <p class="view">
+          <a href="{{ site.github.owner_url }}"><i class='fa fa-github'></i> GitHub</a><br/>
+          <a href="https://www.linkedin.com/in/dcalkins"><i class='fa fa-linkedin'></i> LinkedIn</a><br/>
+          <a href="https://www.instagram.com/techvice"><i class='fa fa-instagram'></i> Instagram</a><br/>
+          <a href="https://stackoverflow.com/users/478049/techvice"><i class='fa fa-stack-overflow'></i> Stack Overflow</a>
+        </p>
         {% endif %}
 
         {% if site.show_downloads %}
