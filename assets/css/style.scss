@@ -1,0 +1,10 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+input:focus {
+    border-color: #267CB9;
+    outline: none;
+    box-shadow: 0 0 5px 1px rgb(49, 154, 209);
+}
