@@ -5,7 +5,7 @@ date: 2015-12-14 17:00:00 -0700
 tags: [azure, azure table storage, iqueryable, linq]
 ---
 
-A coworker and I have been puzzled for the last week or so. We have been seeing incredibly slow table storage performance.(···) Here is the problem that we faced:
+A coworker and I have been puzzled for the last week or so. We have been seeing incredibly slow table storage performance. Here is the problem that we faced:
 
 {% highlight c# %}
 
