@@ -14,5 +14,5 @@ I appreciate that you'd like to touch base with me. Use this simple form and I'l
   <br />
   <input type="hidden" name="_subject" value="Contact Email - dcalkins.com" />
   <input type="hidden" name="_next" value="{{ "/thanks.html" | relative_url }}" />
-  <button type="submit" style="font-size:14px;font-family:Noto Sans, Helvetica Neue, Helvetica, Arial, sans-serif;">Send</button>
+  <button type="submit" style="font-size:14px;font-family:Noto Sans, Helvetica Neue, Helvetica, Arial, sans-serif; font-size: 1em; text-transform: uppercase; font-weight: 600; border: 2px solid #267CB9; color: #359173; background: transparent; line-height: 1em; padding: 0.6em 0.9em;">Send</button>
 </form>
