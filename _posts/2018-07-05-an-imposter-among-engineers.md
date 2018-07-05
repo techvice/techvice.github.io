@@ -23,10 +23,7 @@ Whether this played out in my mind on a conscious or unconscious level, this cam
 
 In an industry where technology can rule nearly every aspect of our daily life, as individuals and a collective, we have the chance to grow and further ourselves beyond any expectations. For my part, this means acknowledging I struggle and deal with shame. It means identifying the parts of myself which prevents me from being who I can be and being fully authentic in my life.
 
-The two primary parts of having imposter syndrome are:
-
-* Inability to internalize their accomplishments
-* Persistent fear of being exposed as a "fraud"
+Let's cover the two primarty parts of having imposter syndrome.
 
 ## Inability to Internalize My Accomplishments
 
@@ -44,8 +41,6 @@ For the first eight years of working as an engineer, I felt like I was one mista
 
 Shame is one of the critical components of these two situations. I have a tremendous amount of shame in my life. From the way it shaped me as a kid to my repeated mistakes as a young engineer, shame has been a major repeating event in my life. Shame has had too long to fester as a hidden element of my life. I've worked over the last few years to shed the shame I've carried. It will continue to take years to work towards a shameless life. 
 
-We must never let the shame prevent us from doing the work we are capable of accomplishing. Shame cannot live when we are open about what we feel and how it is hindering us. I would extend a challenge to all: do not let shame be a hidden burden you carry. We all deal with shame and we all can remove the shame we feel when we share it with the world. Unburden yourself. [Live a life so shameless](https://open.spotify.com/track/0ehrTIFn0kb4BYtkbrK7Je?autoplay=true&v=T).
+We must never let the shame prevent us from doing the work we are capable of accomplishing. Shame cannot live when we are open about what we feel and how it is hindering us. I would extend a challenge to all: do not let shame be a hidden burden you carry. We all deal with shame and we all can remove the shame we feel when we share it with the world. 
 
-- Discussing shame
-- Open communication
-- Work together to win
+Unburden yourself. Lift all around you. [Live a life so shameless](https://open.spotify.com/track/0ehrTIFn0kb4BYtkbrK7Je?autoplay=true&v=T).
