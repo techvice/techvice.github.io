@@ -5,9 +5,7 @@ date: 2015-11-23 10:00:00 -0700
 tags: [azure, azure table storage, iqueryable, linq]
 ---
 
-A recent task I was working on had me working with Microsoft's Azure Table Storage.
-
-A recent realization was that we needed to have some filtering of the data that was being shown from table storage. I was the back end engineer assigned to review what could be done on the server side to provide a better way to filter. What we had was code that was not flexible enough for searching. It looked something like this:
+A recent task I was working on had me working with Microsoft's Azure Table Storage. A realization was that we needed to have some filtering of the data that was being shown from table storage. I was the back end engineer assigned to review what could be done on the server side to provide a better way to filter. What we had was code that was not flexible enough for searching. It looked something like this:
 
 {% highlight c# %}
 
