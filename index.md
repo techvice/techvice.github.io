@@ -8,7 +8,7 @@
 		</div><!--/.article-head-->
 		<div class="article-content">
 		{{ post.long_description }}
-		<a href="/{{ post.url }}/" class="full-post-link js-pjax">Read more</a>	
+		<a href="{{ post.url }}" class="full-post-link js-pjax">Read more</a>	
 		</div><!--/.article-content-->
 	</article>
 	{% if forloop.last %}{% else %} <hr> {% endif %}

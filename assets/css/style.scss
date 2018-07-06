@@ -11,6 +11,8 @@ hr {
     font-size: 20px;
     /* color: #ddd; */
     border: none;
+    background: transparent;
+    height: auto;
   }
   hr:before {
     content: '\2022 \2022 \2022 \2022 \2022';
