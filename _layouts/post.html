@@ -7,7 +7,9 @@ layout: default
 
 <p class="view">by {{ page.author | default: site.author }}</p>
 
-> {{ page.description }}
+{% if page.excerpt %}
+> {{ page.excerpt }}
+{% endif %}
 
 {{content}}
 
