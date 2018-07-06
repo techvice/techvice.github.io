@@ -6,7 +6,7 @@ title: About
 
 Hello! My name is Daniel Calkins. I'm a .NET fanatic living in Chandler, Arizona.
 
-<img src="/assets/headshot.png" alt="alt text" title="Logo Title Text 1" style="float:right; width: 60px">
+<img src="/assets/headshot.jpg" alt="alt text" title="Logo Title Text 1" style="float:right; width: 60px">
 
 You can read all about my work history on <a href="https://www.linkedin.com/in/dcalkins" target="_blank" rel=”nofollow”>my LinkedIn profile</a>.
 
