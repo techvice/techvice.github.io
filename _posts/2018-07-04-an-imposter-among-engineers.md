@@ -43,4 +43,4 @@ Shame is one of the critical components of these two situations. I have a tremen
 
 We must never let the shame prevent us from doing the work we are capable of accomplishing. Shame cannot live when we are open about what we feel and how it is hindering us. I would extend a challenge to all: do not let shame be a hidden burden you carry. We all deal with shame and we all can remove the shame we feel when we share it with the world. 
 
-Unburden yourself. Lift all around you. [Live a life so shameless](https://open.spotify.com/track/0ehrTIFn0kb4BYtkbrK7Je?autoplay=true&v=T).
+Unburden yourself. Lift all around you. <a href="https://open.spotify.com/track/0ehrTIFn0kb4BYtkbrK7Je?autoplay=true&v=T" target="_blank">Live a life so shameless</a>.
