@@ -3,8 +3,9 @@ layout: post
 title: "An Imposter Among Engineers"
 date: 2018-07-04 22:30:00 -0700
 tags: [imposter syndrome, shortcomings, fraud, development]
-excerpt: "I'm an impostor. I'm a fraud of an engineer. I am just waiting for an individual to call me out and say, "I'm sorry, but you don't belong here." I will hang my head in agreement, quickly gather my personal effects, and head for the exit."
 ---
+
+> I'm an impostor. I'm a fraud of an engineer. I am just waiting for an individual to call me out and say, "I'm sorry, but you don't belong here." I will hang my head in agreement, quickly gather my personal effects, and head for the exit.
 
 For far too long, I have sat alone wondering when I would be called out. There would be a variety of reasons to have the spotlight show all my glaring imperfections:
 
