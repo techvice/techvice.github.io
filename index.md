@@ -7,7 +7,7 @@
 			<p class="date">{{ post.date | date: "%b %d, %Y" }}</p>
 		</div><!--/.article-head-->
 		<div class="article-content">
-		{{ post.long_description }}
+		{{ post.excerpt }}
 		<a href="{{ post.url }}" class="full-post-link js-pjax">Read more</a>	
 		</div><!--/.article-content-->
 {% if forloop.last %}{% else %}<hr/>{% endif %}
