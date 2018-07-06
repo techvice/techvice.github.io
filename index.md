@@ -10,6 +10,6 @@
 		{{ post.long_description }}
 		<a href="{{ post.url }}" class="full-post-link js-pjax">Read more</a>	
 		</div><!--/.article-content-->
-{% if forloop.last %}{% else %}<div class="separator"></div>{% endif %}
+{% if forloop.last %}{% else %}<hr/>{% endif %}
 	</article>
 {% endfor %}

@@ -4,7 +4,7 @@
 @import "{{ site.theme }}";
 
 
-div.separator {
+hr {
     margin: 20px 0 25px 0;
     text-align: center;
     letter-spacing: 3px;
@@ -13,5 +13,7 @@ div.separator {
     border: none;
     background: transparent;
     height: auto;
-    content: '\2022 \2022 \2022';
+  }
+  hr:before {
+    content: '\2022 \2022 \2022 \2022 \2022';
   }
