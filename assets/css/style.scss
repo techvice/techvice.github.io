@@ -3,8 +3,15 @@
 
 @import "{{ site.theme }}";
 
-.line-separator{
-    height:1px;
-    background:#717171;
-    border-bottom:1px solid #313030;
-}
+
+hr {
+    margin: 20px 0 25px 0;
+    text-align: center;
+    letter-spacing: 3px;
+    font-size: 20px;
+    /* color: #ddd; */
+    border: none;
+  }
+  hr:before {
+    content: '\2022 \2022 \2022 \2022 \2022';
+  }
