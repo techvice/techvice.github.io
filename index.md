@@ -11,5 +11,5 @@
 		<a href="/{{ post.url }}/" class="full-post-link js-pjax">Read more</a>	
 		</div><!--/.article-content-->
 	</article>
-	{% if forloop.last %}{% else %}<div class="separater"></div>{% endif %}
+	{% if forloop.last %}{% else %} <div class="line-separator"></div> {% endif %}
 {% endfor %}
